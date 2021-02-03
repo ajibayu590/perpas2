@@ -1,0 +1,692 @@
+2018-07-02 10:02:37 [::1][-][-][error][yii\i18n\PhpMessageSource::loadFallbackMessages] The message file for category 'app' does not exist: D:\xampp\htdocs\inlislite31\frontend/messages//app.php Fallback file does not exist as well: D:\xampp\htdocs\inlislite31\frontend/messages//app.php
+    in D:\xampp\htdocs\inlislite31\frontend\views\site\index.php:17
+    in D:\xampp\htdocs\inlislite31\frontend\controllers\SiteController.php:110
+2018-07-02 10:02:32 [::1][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'D:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'D:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost:8123'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:61.0) Gecko/20100101 Firefox/61.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => 'C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Didik Pribadi\\AppData\\Local\\Microsoft\\WindowsApps'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at localhost Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'D:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'D:/xampp/htdocs/inlislite31/index.php'
+    'REMOTE_PORT' => '53452'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite31/'
+    'SCRIPT_NAME' => '/inlislite31/index.php'
+    'PHP_SELF' => '/inlislite31/index.php'
+    'REQUEST_TIME_FLOAT' => 1530500551.621
+    'REQUEST_TIME' => 1530500551
+]
+2021-02-02 10:28:29 [192.168.100.46][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.46
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-02 10:28:29 [192.168.100.46][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.46'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '1508'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612236509.456
+    'REQUEST_TIME' => 1612236509
+]
+2021-02-02 10:43:59 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-02 10:43:58 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dag52qbjrtn40c1l5cgakccpmr'
+    'killme' => 'dont'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=dag52qbjrtn40c1l5cgakccpmr; killme=dont'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '54916'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612237438.691
+    'REQUEST_TIME' => 1612237438
+]
+2021-02-02 10:47:48 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\pendaftaran.php:135
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\PendaftaranController.php:53
+2021-02-02 10:47:48 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dag52qbjrtn40c1l5cgakccpmr'
+    'killme' => 'dont'
+    '_csrf' => 'a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7\";}'
+    '_backendInlislite' => '1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A\";}'
+    'backendSession' => 'c26i510vn2e6a090t4hpmi6hs4'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'keanggotaanSession' => 'trv1gpevgv879i97aq3kvh1c05'
+    '_keanggotaanInlislite' => '5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a:2:{i:0;s:21:\"_keanggotaanInlislite\";i:1;s:32:\"8IvfnRnNs8qfKjHozhf7PcEE317YjmCz\";}'
+    'guestbook' => '9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a:2:{i:0;s:9:\"guestbook\";i:1;s:32:\"3awWhc86MN980V9GHmvxGXie2HLhSxTP\";}'
+    '_LKDInlislite' => '6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a:2:{i:0;s:13:\"_LKDInlislite\";i:1;s:32:\"KEbECVfJhtRlC6TaoALXDabBBSyRVS5j\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'REDIRECT_MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'REDIRECT_OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'REDIRECT_PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'REDIRECT_PHPRC' => '\\xampp\\php'
+    'REDIRECT_TMP' => '\\xampp\\tmp'
+    'REDIRECT_STATUS' => '200'
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://192.168.100.213:8123/inlislite3/digitalcollection/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=dag52qbjrtn40c1l5cgakccpmr; killme=dont; _csrf=a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7%22%3B%7D; _backendInlislite=1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A%22%3B%7D; backendSession=c26i510vn2e6a090t4hpmi6hs4; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; keanggotaanSession=trv1gpevgv879i97aq3kvh1c05; _keanggotaanInlislite=5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a%3A2%3A%7Bi%3A0%3Bs%3A21%3A%22_keanggotaanInlislite%22%3Bi%3A1%3Bs%3A32%3A%228IvfnRnNs8qfKjHozhf7PcEE317YjmCz%22%3B%7D; guestbook=9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22guestbook%22%3Bi%3A1%3Bs%3A32%3A%223awWhc86MN980V9GHmvxGXie2HLhSxTP%22%3B%7D; _LKDInlislite=6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_LKDInlislite%22%3Bi%3A1%3Bs%3A32%3A%22KEbECVfJhtRlC6TaoALXDabBBSyRVS5j%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '55067'
+    'REDIRECT_URL' => 'http://192.168.100.213:8123/inlislite3/pendaftaran'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/pendaftaran'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612237668.321
+    'REQUEST_TIME' => 1612237668
+]
+2021-02-02 10:47:51 [192.168.100.70][-][-][error][yii\i18n\PhpMessageSource::loadFallbackMessages] The message file for category 'kvdate' does not exist: F:\xampp\htdocs\inlislite3\vendor\kartik-v\yii2-widget-datepicker/messages/idn/kvdate.php Fallback file does not exist as well: F:\xampp\htdocs\inlislite3\vendor\kartik-v\yii2-widget-datepicker/messages/id/kvdate.php
+    in F:\xampp\htdocs\inlislite3\vendor\kartik-v\yii2-widget-datepicker\DatePicker.php:290
+    in F:\xampp\htdocs\inlislite3\vendor\kartik-v\yii2-widget-datepicker\DatePicker.php:316
+    in F:\xampp\htdocs\inlislite3\vendor\kartik-v\yii2-widget-datepicker\DatePicker.php:266
+2021-02-02 10:47:51 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\pendaftaran.php:135
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\PendaftaranController.php:335
+2021-02-02 10:47:51 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dag52qbjrtn40c1l5cgakccpmr'
+    'killme' => 'dont'
+    '_csrf' => 'a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7\";}'
+    '_backendInlislite' => '1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A\";}'
+    'backendSession' => 'c26i510vn2e6a090t4hpmi6hs4'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'keanggotaanSession' => 'trv1gpevgv879i97aq3kvh1c05'
+    '_keanggotaanInlislite' => '5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a:2:{i:0;s:21:\"_keanggotaanInlislite\";i:1;s:32:\"8IvfnRnNs8qfKjHozhf7PcEE317YjmCz\";}'
+    'guestbook' => '9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a:2:{i:0;s:9:\"guestbook\";i:1;s:32:\"3awWhc86MN980V9GHmvxGXie2HLhSxTP\";}'
+    '_LKDInlislite' => '6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a:2:{i:0;s:13:\"_LKDInlislite\";i:1;s:32:\"KEbECVfJhtRlC6TaoALXDabBBSyRVS5j\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'REDIRECT_MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'REDIRECT_OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'REDIRECT_PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'REDIRECT_PHPRC' => '\\xampp\\php'
+    'REDIRECT_TMP' => '\\xampp\\tmp'
+    'REDIRECT_STATUS' => '200'
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://192.168.100.213:8123/inlislite3/pendaftaran'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=dag52qbjrtn40c1l5cgakccpmr; killme=dont; _csrf=a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7%22%3B%7D; _backendInlislite=1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A%22%3B%7D; backendSession=c26i510vn2e6a090t4hpmi6hs4; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; keanggotaanSession=trv1gpevgv879i97aq3kvh1c05; _keanggotaanInlislite=5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a%3A2%3A%7Bi%3A0%3Bs%3A21%3A%22_keanggotaanInlislite%22%3Bi%3A1%3Bs%3A32%3A%228IvfnRnNs8qfKjHozhf7PcEE317YjmCz%22%3B%7D; guestbook=9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22guestbook%22%3Bi%3A1%3Bs%3A32%3A%223awWhc86MN980V9GHmvxGXie2HLhSxTP%22%3B%7D; _LKDInlislite=6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_LKDInlislite%22%3Bi%3A1%3Bs%3A32%3A%22KEbECVfJhtRlC6TaoALXDabBBSyRVS5j%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '55068'
+    'REDIRECT_URL' => 'http://192.168.100.213:8123/inlislite3/pendaftaran/anggota'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/pendaftaran/anggota'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612237671.06
+    'REQUEST_TIME' => 1612237671
+]
+2021-02-02 10:48:12 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\pendaftaran.php:135
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\PendaftaranController.php:53
+2021-02-02 10:48:12 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dag52qbjrtn40c1l5cgakccpmr'
+    'killme' => 'dont'
+    '_csrf' => 'a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7\";}'
+    '_backendInlislite' => '1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A\";}'
+    'backendSession' => 'c26i510vn2e6a090t4hpmi6hs4'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'keanggotaanSession' => 'trv1gpevgv879i97aq3kvh1c05'
+    '_keanggotaanInlislite' => '5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a:2:{i:0;s:21:\"_keanggotaanInlislite\";i:1;s:32:\"8IvfnRnNs8qfKjHozhf7PcEE317YjmCz\";}'
+    'guestbook' => '9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a:2:{i:0;s:9:\"guestbook\";i:1;s:32:\"3awWhc86MN980V9GHmvxGXie2HLhSxTP\";}'
+    '_LKDInlislite' => '6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a:2:{i:0;s:13:\"_LKDInlislite\";i:1;s:32:\"KEbECVfJhtRlC6TaoALXDabBBSyRVS5j\";}'
+    '_OpacInlislite' => '9a67675080bf6771c0fdc9c3d8061cc35a1bc3533cf006cc6ef02836f5a065a1a:2:{i:0;s:14:\"_OpacInlislite\";i:1;s:32:\"q7Czmni8T0ieDzyraW8VVq4GgE5shANy\";}'
+    '_ArticleInlislite' => 'bc8da17524779fcad1c6ea13ad055700c6421517a4e57923ff3572765b1bc779a:2:{i:0;s:17:\"_ArticleInlislite\";i:1;s:32:\"oWwIzWAO1DgytfZP-WHxS6srI_jT7NLu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'REDIRECT_MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'REDIRECT_OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'REDIRECT_PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'REDIRECT_PHPRC' => '\\xampp\\php'
+    'REDIRECT_TMP' => '\\xampp\\tmp'
+    'REDIRECT_STATUS' => '200'
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://192.168.100.213:8123/inlislite3/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=dag52qbjrtn40c1l5cgakccpmr; killme=dont; _csrf=a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7%22%3B%7D; _backendInlislite=1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A%22%3B%7D; backendSession=c26i510vn2e6a090t4hpmi6hs4; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; keanggotaanSession=trv1gpevgv879i97aq3kvh1c05; _keanggotaanInlislite=5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a%3A2%3A%7Bi%3A0%3Bs%3A21%3A%22_keanggotaanInlislite%22%3Bi%3A1%3Bs%3A32%3A%228IvfnRnNs8qfKjHozhf7PcEE317YjmCz%22%3B%7D; guestbook=9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22guestbook%22%3Bi%3A1%3Bs%3A32%3A%223awWhc86MN980V9GHmvxGXie2HLhSxTP%22%3B%7D; _LKDInlislite=6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_LKDInlislite%22%3Bi%3A1%3Bs%3A32%3A%22KEbECVfJhtRlC6TaoALXDabBBSyRVS5j%22%3B%7D; _OpacInlislite=9a67675080bf6771c0fdc9c3d8061cc35a1bc3533cf006cc6ef02836f5a065a1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_OpacInlislite%22%3Bi%3A1%3Bs%3A32%3A%22q7Czmni8T0ieDzyraW8VVq4GgE5shANy%22%3B%7D; _ArticleInlislite=bc8da17524779fcad1c6ea13ad055700c6421517a4e57923ff3572765b1bc779a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_ArticleInlislite%22%3Bi%3A1%3Bs%3A32%3A%22oWwIzWAO1DgytfZP-WHxS6srI_jT7NLu%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '55084'
+    'REDIRECT_URL' => 'http://192.168.100.213:8123/inlislite3/pendaftaran'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/pendaftaran'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612237692.727
+    'REQUEST_TIME' => 1612237692
+]
+2021-02-02 10:48:19 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\base-layout.php:135
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\StatistikPerkembanganPerpustakaanController.php:910
+2021-02-02 10:48:19 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dag52qbjrtn40c1l5cgakccpmr'
+    'killme' => 'dont'
+    '_csrf' => 'a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7\";}'
+    '_backendInlislite' => '1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A\";}'
+    'backendSession' => 'c26i510vn2e6a090t4hpmi6hs4'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'keanggotaanSession' => 'trv1gpevgv879i97aq3kvh1c05'
+    '_keanggotaanInlislite' => '5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a:2:{i:0;s:21:\"_keanggotaanInlislite\";i:1;s:32:\"8IvfnRnNs8qfKjHozhf7PcEE317YjmCz\";}'
+    'guestbook' => '9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a:2:{i:0;s:9:\"guestbook\";i:1;s:32:\"3awWhc86MN980V9GHmvxGXie2HLhSxTP\";}'
+    '_LKDInlislite' => '6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a:2:{i:0;s:13:\"_LKDInlislite\";i:1;s:32:\"KEbECVfJhtRlC6TaoALXDabBBSyRVS5j\";}'
+    '_OpacInlislite' => '9a67675080bf6771c0fdc9c3d8061cc35a1bc3533cf006cc6ef02836f5a065a1a:2:{i:0;s:14:\"_OpacInlislite\";i:1;s:32:\"q7Czmni8T0ieDzyraW8VVq4GgE5shANy\";}'
+    '_ArticleInlislite' => 'bc8da17524779fcad1c6ea13ad055700c6421517a4e57923ff3572765b1bc779a:2:{i:0;s:17:\"_ArticleInlislite\";i:1;s:32:\"oWwIzWAO1DgytfZP-WHxS6srI_jT7NLu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'REDIRECT_MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'REDIRECT_OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'REDIRECT_PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'REDIRECT_PHPRC' => '\\xampp\\php'
+    'REDIRECT_TMP' => '\\xampp\\tmp'
+    'REDIRECT_STATUS' => '200'
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://192.168.100.213:8123/inlislite3/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=dag52qbjrtn40c1l5cgakccpmr; killme=dont; _csrf=a40f40c3dd7b3306df9b81b18b99038b72b2de37f3438c823066555b34240a92a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VQl_S1jeh9sd4V9Us00uCFMC3uUTLlI7%22%3B%7D; _backendInlislite=1132ac6aa45fa998cfa85f2becea281b17e1f9c089ad2405c9c3535840f48b04a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22GF3wDfRP2qj4Rk8KIMYrylnUxa5KMM6A%22%3B%7D; backendSession=c26i510vn2e6a090t4hpmi6hs4; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; keanggotaanSession=trv1gpevgv879i97aq3kvh1c05; _keanggotaanInlislite=5d5495d518a9e91f112de721a4227f27886a534b03f398bb48b5bcd048babde0a%3A2%3A%7Bi%3A0%3Bs%3A21%3A%22_keanggotaanInlislite%22%3Bi%3A1%3Bs%3A32%3A%228IvfnRnNs8qfKjHozhf7PcEE317YjmCz%22%3B%7D; guestbook=9d979d6876fec9d61c2bd94e9fa26ce5e93bb126d69b01ad5c8f6b317c6a2895a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22guestbook%22%3Bi%3A1%3Bs%3A32%3A%223awWhc86MN980V9GHmvxGXie2HLhSxTP%22%3B%7D; _LKDInlislite=6588a4a0fe327e58e2ec4ffe8f3ef7a3b8d7cde05de175a3a3a3e3de9e171f03a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_LKDInlislite%22%3Bi%3A1%3Bs%3A32%3A%22KEbECVfJhtRlC6TaoALXDabBBSyRVS5j%22%3B%7D; _OpacInlislite=9a67675080bf6771c0fdc9c3d8061cc35a1bc3533cf006cc6ef02836f5a065a1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_OpacInlislite%22%3Bi%3A1%3Bs%3A32%3A%22q7Czmni8T0ieDzyraW8VVq4GgE5shANy%22%3B%7D; _ArticleInlislite=bc8da17524779fcad1c6ea13ad055700c6421517a4e57923ff3572765b1bc779a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_ArticleInlislite%22%3Bi%3A1%3Bs%3A32%3A%22oWwIzWAO1DgytfZP-WHxS6srI_jT7NLu%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '55091'
+    'REDIRECT_URL' => 'http://192.168.100.213:8123/inlislite3/statistik-perkembangan-perpustakaan'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/statistik-perkembangan-perpustakaan'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612237699.621
+    'REQUEST_TIME' => 1612237699
+]
+2021-02-03 08:42:17 [192.168.100.46][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.46
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-03 08:42:17 [192.168.100.46][-][-][info][application] $_COOKIE = [
+    '_identity' => '9e6fe272bb732ed54ec46d9ba3c7706824fc6a75de7b7d8e4ed748f4c4b41bcea:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[47,null,2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_identity=9e6fe272bb732ed54ec46d9ba3c7706824fc6a75de7b7d8e4ed748f4c4b41bcea%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B47%2Cnull%2C2592000%5D%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.46'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '1289'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612316536.988
+    'REQUEST_TIME' => 1612316536
+]
+2021-02-03 11:31:08 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-03 11:31:08 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'killme' => 'dont'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'PHPSESSID' => 'brmb1cas68gu932hd3h1b5hrhs'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'killme=dont; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; PHPSESSID=brmb1cas68gu932hd3h1b5hrhs'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '59030'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612326668.255
+    'REQUEST_TIME' => 1612326668
+]
+2021-02-03 11:50:44 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-03 11:50:44 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'killme' => 'dont'
+    '_identity' => 'af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a:2:{i:0;s:9:\"_identity\";i:1;s:17:\"[33,null,2592000]\";}'
+    'PHPSESSID' => 'brmb1cas68gu932hd3h1b5hrhs'
+    '_csrf' => '040154e622fc07c1dacffa259871600c664d00a5638bb47803847d6519099ee4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ag4RSwvaGSBg7lnvxwbQxRkZtMmjzZmq\";}'
+    '_backendInlislite' => '9523d048ed005d1b6dbb9a717115875a0760149b64da16ec2c7ab5b9a409e2d0a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"wNZ2nThzLawtdulcmTpP5m0lx3UxDST6\";}'
+    'backendSession' => 'o2cu50df6060h3858v14vrtvd6'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'killme=dont; _identity=af3e2a0e951dec577795a0c5ffd91cd682a11d709a13aa959f261807f7b4af33a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A17%3A%22%5B33%2Cnull%2C2592000%5D%22%3B%7D; PHPSESSID=brmb1cas68gu932hd3h1b5hrhs; _csrf=040154e622fc07c1dacffa259871600c664d00a5638bb47803847d6519099ee4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ag4RSwvaGSBg7lnvxwbQxRkZtMmjzZmq%22%3B%7D; _backendInlislite=9523d048ed005d1b6dbb9a717115875a0760149b64da16ec2c7ab5b9a409e2d0a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22wNZ2nThzLawtdulcmTpP5m0lx3UxDST6%22%3B%7D; backendSession=o2cu50df6060h3858v14vrtvd6'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '57621'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612327843.962
+    'REQUEST_TIME' => 1612327843
+]
+2021-02-03 12:03:40 [192.168.100.70][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.100.70
+    in F:\xampp\htdocs\inlislite3\frontend\views\layouts\main.php:79
+    in F:\xampp\htdocs\inlislite3\frontend\controllers\SiteController.php:110
+2021-02-03 12:03:40 [192.168.100.70][-][-][info][application] $_COOKIE = [
+    'killme' => 'dont'
+    'PHPSESSID' => 'brmb1cas68gu932hd3h1b5hrhs'
+    '_backendInlislite' => '9523d048ed005d1b6dbb9a717115875a0760149b64da16ec2c7ab5b9a409e2d0a:2:{i:0;s:17:\"_backendInlislite\";i:1;s:32:\"wNZ2nThzLawtdulcmTpP5m0lx3UxDST6\";}'
+    'backendSession' => 'ouj44gffqjc4pl9685c9grc8d4'
+    'keanggotaanSession' => 'm573jru9m4n5h8rsoc8ekfpd01'
+    '_LKDInlislite' => '919bdda7e9dc518996f1bafab99b2359777aebdb0dfab13748bf582d68183744a:2:{i:0;s:13:\"_LKDInlislite\";i:1;s:32:\"KL3I9ogxqd73vlGIcCIE5QXuJ_8nDSgk\";}'
+    '_csrf' => 'b7dc0b183083ed72655094067fba4e9981ebcfe2d6518bf0eca1c542663774e8a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Dfle_Mkb37pVWnfXAc5lY9ngQX09g-fn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'F:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'F:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => '192.168.100.213:8123'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8'
+    'HTTP_COOKIE' => 'killme=dont; PHPSESSID=brmb1cas68gu932hd3h1b5hrhs; _backendInlislite=9523d048ed005d1b6dbb9a717115875a0760149b64da16ec2c7ab5b9a409e2d0a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_backendInlislite%22%3Bi%3A1%3Bs%3A32%3A%22wNZ2nThzLawtdulcmTpP5m0lx3UxDST6%22%3B%7D; backendSession=ouj44gffqjc4pl9685c9grc8d4; keanggotaanSession=m573jru9m4n5h8rsoc8ekfpd01; _LKDInlislite=919bdda7e9dc518996f1bafab99b2359777aebdb0dfab13748bf582d68183744a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_LKDInlislite%22%3Bi%3A1%3Bs%3A32%3A%22KL3I9ogxqd73vlGIcCIE5QXuJ_8nDSgk%22%3B%7D; _csrf=b7dc0b183083ed72655094067fba4e9981ebcfe2d6518bf0eca1c542663774e8a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Dfle_Mkb37pVWnfXAc5lY9ngQX09g-fn%22%3B%7D'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\eRaporSMK\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\smkdian\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Multipass\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19 Server at 192.168.100.213 Port 8123</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19'
+    'SERVER_NAME' => '192.168.100.213'
+    'SERVER_ADDR' => '192.168.100.213'
+    'SERVER_PORT' => '8123'
+    'REMOTE_ADDR' => '192.168.100.70'
+    'DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'F:/xampp/htdocs/inlislite3/index.php'
+    'REMOTE_PORT' => '57851'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/inlislite3/'
+    'SCRIPT_NAME' => '/inlislite3/index.php'
+    'PHP_SELF' => '/inlislite3/index.php'
+    'REQUEST_TIME_FLOAT' => 1612328620.667
+    'REQUEST_TIME' => 1612328620
+]
